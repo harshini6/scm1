@@ -1,23 +1,6 @@
 body {
 	background-color:#CCCCCC;
 }
-#listTableHeader {
-	font-family: "Courier New", Courier, mono;
-	font-size: 14px;
-	color: #FFFFFF;
-	background-color: #7F92A4;
-	font-weight: bold;
-	background-position: center;
-}
-
-#infoTableHeader {
-	font-family: "Courier New", Courier, mono;
-	font-size: 14px;
-	color: #FFFFFF;
-	background-color: #7F92A4;
-	font-weight: bold;
-	background-position: center;
-}
 
 #entryTableHeader {
 	font-family: "Courier New", Courier, mono;
@@ -26,16 +9,6 @@ body {
 	background-color: #7F92A4;
 	font-weight: bold;
 	background-position: center;
-}
-
-.entryTable {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 12px;
-	background-color: #DDDDDD;
-}
-
-.entryTable .label {
-	background-color: #EFEFEF;
 }
 
 .entryTable .content {
